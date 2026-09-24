@@ -9,8 +9,14 @@ ABD/
 ├── Actividades/
 │   └── Refuerzo Normalización/
 │       └── Escenarios de Normalizacion.md
-├── Clases/
-│   └── README.md                 # Escenario Modelo: Concesionario
+├── Clases/                       # Material de clases
+│   ├── README.md                 # Escenario Modelo: Concesionario
+│   ├── ConcessionaireDB Script.sql   # Script consolidado
+│   ├── AuxiliaryScript.sql       # Script auxiliar
+│   ├── 00 - Repaso Fundamentos SQL/
+│   │   ├── 00-Fundamentos-Llaves-SQL.md
+│   │   ├── Asignacion-00.md
+│   │   └── Resolucion-Asignacion-00.sql
 ├── Proyecto Integrador/          # Ruta del proyecto final
 │   ├── README.md                 # Índice de la sección
 │   ├── 00 - Contexto.md
@@ -33,7 +39,13 @@ ABD/
 | Ubicación | Descripción |
 |-----------|-------------|
 | `Clases/README.md` | **Escenario Modelo: Concesionario.** Descripción del proyecto y problemática a abordar. |
+| `Clases/ConcessionaireDB Script.sql` | Script de base de datos. |
+| `Clases/AuxiliaryScript.sql` | Script de apoyo. |
 | `Clases/NN - Tema/` | Carpeta por clase con el material (`.md`), la guía de trabajo (`Asignacion-NN.md`) y la resolución correspondiente (`.sql`). |
+
+| Clase | Material | Guía de trabajo |
+|-------|----------|-----------------|
+| `00 - Repaso Fundamentos SQL` | [`00-Fundamentos-Llaves-SQL.md`](Clases/00%20-%20Repaso%20Fundamentos%20SQL/00-Fundamentos-Llaves-SQL.md) | [`Asignacion-00.md`](Clases/00%20-%20Repaso%20Fundamentos%20SQL/Asignacion-00.md) |
 
 ### Proyecto Integrador
 

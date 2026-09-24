@@ -61,3 +61,10 @@ erDiagram
     Factura ||--o| Matriculacion : "registra"
     Factura ||--o| Entrega : "culmina"
 ```
+
+## Script de la Base de Datos
+
+El script de la base de datos se actualiza **clase a clase**, acumulando las sentencias DDL/DML de cada tema:
+
+- [`ConcessionaireDB Script.sql`](ConcessionaireDB%20Script.sql) — script consolidado del escenario.
+- [`AuxiliaryScript.sql`](AuxiliaryScript.sql) — consultas auxiliares de apoyo.
