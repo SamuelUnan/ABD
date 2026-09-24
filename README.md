@@ -11,6 +11,11 @@ ABD/
 │       └── Escenarios de Normalizacion.md
 ├── Clases/
 │   └── README.md                 # Escenario Modelo: Concesionario
+├── Proyecto Integrador/          # Ruta del proyecto final
+│   ├── README.md                 # Índice de la sección
+│   ├── 00 - Contexto.md
+│   ├── 01 - Primer Corte Evaluativo.md
+│   └── 02 - Segundo Corte Evaluativo.md
 ├── LICENSE
 └── README.md
 ```
@@ -29,6 +34,12 @@ ABD/
 |-----------|-------------|
 | `Clases/README.md` | **Escenario Modelo: Concesionario.** Descripción del proyecto y problemática a abordar. |
 | `Clases/NN - Tema/` | Carpeta por clase con el material (`.md`), la guía de trabajo (`Asignacion-NN.md`) y la resolución correspondiente (`.sql`). |
+
+### Proyecto Integrador
+
+| Ubicación | Descripción |
+|-----------|-------------|
+| `Proyecto Integrador/` | Definición de la ruta del proyecto final: [índice](Proyecto%20Integrador/README.md), contexto, entregables (Semana 8 y Semana 14) y rúbrica de evaluación. |
 
 ## Escenario Modelo
 
