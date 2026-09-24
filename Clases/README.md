@@ -62,6 +62,15 @@ erDiagram
     Factura ||--o| Entrega : "culmina"
 ```
 
+## Construcción por Tema
+
+| Tema | Qué se construye |
+|------|------------------|
+| 00 | Tablas base en `dbo` con llaves y restricciones |
+| 01 | Tablas de ventas + `Visita` + SP con transacciones y manejo de errores |
+| 02 | Triggers DML sobre Factura → LogAuditoria |
+| 03 | Reorganización de las tablas en 8 esquemas |
+
 ## Script de la Base de Datos
 
 El script de la base de datos se actualiza **clase a clase**, acumulando las sentencias DDL/DML de cada tema:
