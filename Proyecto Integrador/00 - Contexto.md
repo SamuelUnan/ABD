@@ -23,9 +23,9 @@ Integrar en la Base de Datos OLTP los principios de administración de bases de 
 - Modelado de la base de datos cumpliendo la normalización hasta la **tercera forma normal (3FN)**.
 - Aplicación de los temas:
     - **00** [`Repaso Fundamentos SQL`](../Clases/00%20-%20Repaso%20Fundamentos%20SQL/00-Fundamentos-Llaves-SQL.md)
-    - **01** Transacciones
-    - **05** Tipos de Datos Avanzados
-    - **06** Optimización con Índices
+    - **01** [Transacciones](../Clases/01%20-%20Transacciones/01-Transacciones-y-Manejo-Errores.md)
+    - **05** [Tipos de Datos Avanzados](../Clases/05%20-%20Tipos%20de%20Datos%20Avanzados/05-Tipos-Datos-Avanzados.md)
+    - **06** [Optimización con Índices](../Clases/06%20-%20Optimizacion%20con%20Indices/06-Indices-Optimizacion.md)
 - Definición de esquemas, jerarquía de acceso (roles, permisos, usuarios y su asignación), triggers y tareas programadas.
 - Justificación de los tipos de backup a efectuar y ejecución de los mismos.
 

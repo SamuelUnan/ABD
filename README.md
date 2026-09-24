@@ -26,6 +26,15 @@ ABD/
 │   ├── 03 - Esquemas/
 │   │   ├── 03-Esquemas-y-Organizacion-Objetos.md
 │   │   └── Asignacion-03-Esquemas.md
+│   ├── 04 - CTE/
+│   │   ├── 04-Common-Table-Expressions.md
+│   │   └── Asignacion-04-CTE.md
+│   ├── 05 - Tipos de Datos Avanzados/
+│   │   ├── 05-Tipos-Datos-Avanzados.md
+│   │   └── Asignacion-05-Tipos-Datos.md
+│   ├── 06 - Optimizacion con Indices/
+│   │   ├── 06-Indices-Optimizacion.md
+│   │   └── Asignacion-06-Indices.md
 ├── Proyecto Integrador/          # Ruta del proyecto final
 │   ├── README.md                 # Índice de la sección
 │   ├── 00 - Contexto.md
@@ -58,6 +67,9 @@ ABD/
 | `01 - Transacciones` | [`01-Transacciones-y-Manejo-Errores.md`](Clases/01%20-%20Transacciones/01-Transacciones-y-Manejo-Errores.md) | [`Asignacion-01-Transacciones.md`](Clases/01%20-%20Transacciones/Asignacion-01-Transacciones.md) |
 | `02 - Triggers` | [`02-Triggers-DML.md`](Clases/02%20-%20Triggers/02-Triggers-DML.md) | [`Asignacion-02-Triggers.md`](Clases/02%20-%20Triggers/Asignacion-02-Triggers.md) |
 | `03 - Esquemas` | [`03-Esquemas-y-Organizacion-Objetos.md`](Clases/03%20-%20Esquemas/03-Esquemas-y-Organizacion-Objetos.md) | [`Asignacion-03-Esquemas.md`](Clases/03%20-%20Esquemas/Asignacion-03-Esquemas.md) |
+| `04 - CTE` | [`04-Common-Table-Expressions.md`](Clases/04%20-%20CTE/04-Common-Table-Expressions.md) | [`Asignacion-04-CTE.md`](Clases/04%20-%20CTE/Asignacion-04-CTE.md) |
+| `05 - Tipos de Datos Avanzados` | [`05-Tipos-Datos-Avanzados.md`](Clases/05%20-%20Tipos%20de%20Datos%20Avanzados/05-Tipos-Datos-Avanzados.md) | [`Asignacion-05-Tipos-Datos.md`](Clases/05%20-%20Tipos%20de%20Datos%20Avanzados/Asignacion-05-Tipos-Datos.md) |
+| `06 - Optimizacion con Indices` | [`06-Indices-Optimizacion.md`](Clases/06%20-%20Optimizacion%20con%20Indices/06-Indices-Optimizacion.md) | [`Asignacion-06-Indices.md`](Clases/06%20-%20Optimizacion%20con%20Indices/Asignacion-06-Indices.md) |
 
 ### Proyecto Integrador
 
